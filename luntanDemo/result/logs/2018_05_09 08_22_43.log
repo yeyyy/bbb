@@ -1,0 +1,12 @@
+[2018-05-09 08:22:47] [INFO] chrome
+[2018-05-09 08:22:52] [INFO] 打开的网址为：http://127.0.0.1:8086/bbs/forum.php
+[2018-05-09 08:22:52] [INFO] 查找到相应元素: id: ls_username
+[2018-05-09 08:22:53] [INFO] 查找到相应元素: id: ls_password
+[2018-05-09 08:22:53] [INFO] 查找到相应元素: xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 08:23:00] [INFO] 查找到相应元素: xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[1]
+[2018-05-09 08:23:02] [INFO] 查找到相应元素: id: subject
+[2018-05-09 08:23:02] [INFO] 查找到相应元素: id: fastpostmessage
+[2018-05-09 08:23:03] [INFO] 查找到相应元素: id: fastpostsubmit
+[2018-05-09 08:23:07] [INFO] 查找到相应元素: id: fastpostmessage
+[2018-05-09 08:23:07] [INFO] 查找到相应元素: id: fastpostsubmit
+[2018-05-09 08:23:12] [INFO] 查找到相应元素: xpath: //*[@id="um"]/p[1]/a[7]

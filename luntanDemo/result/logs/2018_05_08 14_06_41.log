@@ -1,0 +1,8 @@
+[2018-05-08 14:06:47] [INFO] 加载驱动
+[2018-05-08 14:07:01] [INFO] 打开的网址为：http://127.0.0.1:8086/bbs/forum.php
+[2018-05-08 14:07:01] [INFO] 查找到相应元素: id: ls_username
+[2018-05-08 14:07:02] [INFO] 查找到相应元素: id: ls_password
+[2018-05-08 14:07:02] [INFO] 查找到相应元素: xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 14:07:09] [INFO] 查找到相应元素: xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[1]
+[2018-05-08 14:07:14] [INFO] 查找到相应元素: id: normalthread_9
+[2018-05-08 14:07:15] [ERROR] not found specifed Element

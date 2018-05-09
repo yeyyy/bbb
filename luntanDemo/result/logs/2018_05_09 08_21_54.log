@@ -1,0 +1,7 @@
+[2018-05-09 08:22:01] [INFO] chrome
+[2018-05-09 08:22:05] [INFO] 打开的网址为：http://127.0.0.1:8086/bbs/forum.php
+[2018-05-09 08:22:05] [INFO] 查找到相应元素: id: ls_username
+[2018-05-09 08:22:06] [INFO] 查找到相应元素: id: ls_password
+[2018-05-09 08:22:06] [INFO] 查找到相应元素: xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 08:22:13] [INFO] 查找到相应元素: xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[1]
+[2018-05-09 08:22:19] [ERROR] not found specifed Element
